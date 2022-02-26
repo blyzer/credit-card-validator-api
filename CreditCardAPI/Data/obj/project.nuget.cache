@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "2/BCcR/s84RFc4EeQhPD6/ZjOMnUw95+bfsMXkwNnwI5LCvMtH5BaAc13/1ML6NuIngkBgwWPwba70B7NdF6wQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Darshana Edirisinghe\\source\\repos\\CreditCardAPI\\Data\\Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Darshana Edirisinghe\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Darshana Edirisinghe\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\Darshana Edirisinghe\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\Darshana Edirisinghe\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\Darshana Edirisinghe\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\Darshana Edirisinghe\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Darshana Edirisinghe\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

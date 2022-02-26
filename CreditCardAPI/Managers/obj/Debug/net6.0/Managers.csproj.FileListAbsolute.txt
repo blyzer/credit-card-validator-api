@@ -1,0 +1,15 @@
+C:\Users\Darshana Edirisinghe\source\repos\CreditCardAPI\Managers\bin\Debug\net6.0\Managers.deps.json
+C:\Users\Darshana Edirisinghe\source\repos\CreditCardAPI\Managers\bin\Debug\net6.0\Managers.dll
+C:\Users\Darshana Edirisinghe\source\repos\CreditCardAPI\Managers\bin\Debug\net6.0\ref\Managers.dll
+C:\Users\Darshana Edirisinghe\source\repos\CreditCardAPI\Managers\bin\Debug\net6.0\Managers.pdb
+C:\Users\Darshana Edirisinghe\source\repos\CreditCardAPI\Managers\bin\Debug\net6.0\Data.dll
+C:\Users\Darshana Edirisinghe\source\repos\CreditCardAPI\Managers\bin\Debug\net6.0\Data.pdb
+C:\Users\Darshana Edirisinghe\source\repos\CreditCardAPI\Managers\obj\Debug\net6.0\Managers.csproj.AssemblyReference.cache
+C:\Users\Darshana Edirisinghe\source\repos\CreditCardAPI\Managers\obj\Debug\net6.0\Managers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darshana Edirisinghe\source\repos\CreditCardAPI\Managers\obj\Debug\net6.0\Managers.AssemblyInfoInputs.cache
+C:\Users\Darshana Edirisinghe\source\repos\CreditCardAPI\Managers\obj\Debug\net6.0\Managers.AssemblyInfo.cs
+C:\Users\Darshana Edirisinghe\source\repos\CreditCardAPI\Managers\obj\Debug\net6.0\Managers.csproj.CoreCompileInputs.cache
+C:\Users\Darshana Edirisinghe\source\repos\CreditCardAPI\Managers\obj\Debug\net6.0\Managers.csproj.CopyComplete
+C:\Users\Darshana Edirisinghe\source\repos\CreditCardAPI\Managers\obj\Debug\net6.0\Managers.dll
+C:\Users\Darshana Edirisinghe\source\repos\CreditCardAPI\Managers\obj\Debug\net6.0\ref\Managers.dll
+C:\Users\Darshana Edirisinghe\source\repos\CreditCardAPI\Managers\obj\Debug\net6.0\Managers.pdb

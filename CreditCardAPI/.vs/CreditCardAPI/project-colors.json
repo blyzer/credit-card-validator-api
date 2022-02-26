@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d9c55a0a-d96b-4f0f-8913-9e963ff98d8a": {
+      "ProjectGuid": "d9c55a0a-d96b-4f0f-8913-9e963ff98d8a",
+      "DisplayName": "CreditCardAPI",
+      "ColorIndex": 0
+    },
+    "82c90769-8490-45f1-a9a9-440c65d01602": {
+      "ProjectGuid": "82c90769-8490-45f1-a9a9-440c65d01602",
+      "DisplayName": "Data",
+      "ColorIndex": 1
+    },
+    "5abd57e8-ad6e-4f8a-9750-cf099cd470a6": {
+      "ProjectGuid": "5abd57e8-ad6e-4f8a-9750-cf099cd470a6",
+      "DisplayName": "Managers",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "9207000a-c567-4db1-a765-700dc5a1c287": {
+      "ProjectGuid": "9207000a-c567-4db1-a765-700dc5a1c287",
+      "DisplayName": "CreditCard.UnitTest",
+      "ColorIndex": 3
+    },
+    "1bba39ac-f554-4450-92d8-4942b2333f8d": {
+      "ProjectGuid": "1bba39ac-f554-4450-92d8-4942b2333f8d",
+      "DisplayName": "CreditCard.UnitTest",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
